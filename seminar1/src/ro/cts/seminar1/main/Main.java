@@ -26,6 +26,7 @@ public class Main {
 
         Asistent asistent = new Asistent("Asistent", 35, 1, 4000);
         curs.setCadruDidactic(asistent);
+        ((IPredabil)curs.getCadruDidactic()).preda();
 
         // restanta :)
         curs.sustinereExamen("06 iulie 2025");

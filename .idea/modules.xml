@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS_Preda_Ana.iml" filepath="$PROJECT_DIR$/ActivitateCTS_Preda_Ana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b4_prototype/b4_prototype.iml" filepath="$PROJECT_DIR$/b4_prototype/b4_prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1/seminar1.iml" filepath="$PROJECT_DIR$/seminar1/seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar3/seminar3.iml" filepath="$PROJECT_DIR$/seminar3/seminar3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
     </modules>
   </component>
 </project>

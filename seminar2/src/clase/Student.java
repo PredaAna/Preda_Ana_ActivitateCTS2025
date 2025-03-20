@@ -5,6 +5,7 @@ public class Student extends Aplicant {
 	protected int anStudii;
 	private static final float sumaFinantata = 20;
 
+
 	public String getFacultate() {
 		return facultate;
 	}

@@ -33,7 +33,9 @@ public class Asistent extends Persoana implements IPredabil {
 
     @Override
     public void preda() {
-
+        StringBuilder builder = new StringBuilder("Asistentul ");
+        builder.append(this.getNume()).append(" in varsta de ").append(this.varsta).append(" de ani preda la curs.");
+        System.out.println(builder.toString());
     }
 
     // practic e getter pt salariu
