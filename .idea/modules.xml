@@ -3,11 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS_Preda_Ana.iml" filepath="$PROJECT_DIR$/ActivitateCTS_Preda_Ana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Exercitii.iml" filepath="$PROJECT_DIR$/Exercitii/Exercitii.iml" />
       <module fileurl="file://$PROJECT_DIR$/b4_prototype/b4_prototype.iml" filepath="$PROJECT_DIR$/b4_prototype/b4_prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practiceTest/practiceTest.iml" filepath="$PROJECT_DIR$/practiceTest/practiceTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1/seminar1.iml" filepath="$PROJECT_DIR$/seminar1/seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar3/seminar3.iml" filepath="$PROJECT_DIR$/seminar3/seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5/seminar5.iml" filepath="$PROJECT_DIR$/seminar5/seminar5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6new/seminar6new.iml" filepath="$PROJECT_DIR$/seminar6new/seminar6new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar7/seminar7.iml" filepath="$PROJECT_DIR$/seminar7/seminar7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8/seminar8.iml" filepath="$PROJECT_DIR$/seminar8/seminar8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar9_online/seminar9_online.iml" filepath="$PROJECT_DIR$/seminar9_online/seminar9_online.iml" />
     </modules>
   </component>
 </project>

@@ -52,7 +52,7 @@ public class AutoritatePescuitLazy {
 
     @Override
     public String toString() {
-        final StringBuilder sb = new StringBuilder("AutoritatePescuitEager{");
+        final StringBuilder sb = new StringBuilder("AutoritatePescuitLazy{");
         sb.append("denumire='").append(denumire).append('\'');
         sb.append(", webSite='").append(webSite).append('\'');
         sb.append(", nrAngajati=").append(nrAngajati);

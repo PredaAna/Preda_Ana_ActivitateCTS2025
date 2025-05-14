@@ -17,7 +17,7 @@ public class Main {
         System.out.println(autoritatePescuitEager.toString());
 
         AutoritatePescuitEager autoritatePescuitEager2 = AutoritatePescuitEager.getInstance();
-        autoritatePescuitEager2.emiteAutorizatie("Piper Maria");
+        autoritatePescuitEager2.emiteAutorizatie("Preda Ana");
         System.out.println(autoritatePescuitEager2.toString());
 
         AutoritatePescuitLazy autoritatePescuitLazy = AutoritatePescuitLazy.getInstance("ANPA", "anpa.ro", 10, 150);
